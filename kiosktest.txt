@@ -5,7 +5,7 @@ dhcp=yes
 #wpa_password=xs2internet
 #ssid_name=Gasten WIFI
 
-kiosk_config=https://dvdhsupport.github.io/kioskconfig/kiosktest.txt
+kiosk_config=https://KIOSK16:5lCPmhb8s3Qt@narrowcasting.studio/screen-config/0f07c530-1924-4ae4-9498-f5e7b26b3ccd
 browser=firefox
 disable_firewall=yes
 homepage=https://www.nu.nl
