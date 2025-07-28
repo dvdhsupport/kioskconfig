@@ -23,6 +23,6 @@ screen_rotate=normal
 shutdown_menu=reboot 
 vnc_interactive=yes
 vnc_password=oXHod68j
-scheduled_action=Monday-08:30 Tuesday-08:30 Wednesday-08:30 Thursday-08:30 Friday-08:30 Saturday-08:30 Sunday-08:30 action:reboot
+scheduled_action=Monday-08:15 Tuesday-08:15 Wednesday-08:15 Thursday-08:15 Friday-08:15 Saturday-08:15 Sunday-08:15 action:reboot
 wake_on_lan=yes
 additional_components=09-x11vnc.xzm uefi.zip
