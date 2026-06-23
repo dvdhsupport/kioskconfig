@@ -5,7 +5,7 @@ dhcp=yes
 #wpa_password=Wachtwoord
 #ssid_name=SSID
 
-kiosk_config=https://dvdhsupport.github.io/kioskconfig/kiosk03.txt
+kiosk_config=https://KIOSK03:oXHod68j@narrowcasting.studio/screen-config/111ee561-93e7-4feb-8f04-9d9d88d2e1e2
 browser=firefox
 disable_firewall=yes
 homepage=https://prtg.altios.nl/public/mapshow.htm?id=21631&mapid=41561D88-9D0B-4866-A8AC-409A931756F3
